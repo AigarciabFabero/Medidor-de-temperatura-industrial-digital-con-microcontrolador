@@ -48,7 +48,10 @@ La temperatura resultante se muestra en la pantalla LCD.
 
 ## Autores
 Aitor García Blanco
+
 Inés Rodríguez Barquero
+
 Rocío Díaz Somalo
+
 
 Fecha del documento: 2 de Febrero de 2021
