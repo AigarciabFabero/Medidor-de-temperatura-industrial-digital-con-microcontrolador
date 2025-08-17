@@ -1,0 +1,52 @@
+Circuit: * C:\Users\Mini\Desktop\Proyecto\Ampli+puente.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+Gmin = 2.52173e-12
+Gmin = 2.70769e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step rp=248.439
+.step rp=248.689
+.step rp=248.939
+.step rp=249.189
+.step rp=249.439
+.step rp=249.689
+.step rp=249.939
+.step rp=250.189
+.step rp=250.439
+.step rp=250.46
+
+Date: Sun Nov 29 13:32:14 2020
+Total elapsed time: 4.968 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2600
+traniter = 2088
+tranpoints = 1045
+accept = 1045
+rejected = 0
+matrix size = 132
+fillins = 218
+solver = Normal
+Thread vector: 40.8/12.9[2] 8.1/6.4[2] 8.4/6.8[2] 2.3/3.5[1]  2592/500
+Matrix Compiler1: 16.79 KB object code size  8.7/3.9/[2.1]
+Matrix Compiler2: 14.54 KB object code size  6.9/5.8/[3.0]
+
